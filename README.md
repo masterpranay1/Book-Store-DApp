@@ -1,4 +1,4 @@
-# Book Store Management System with Next.js, Daisy UI, Hardhat, and MetaMask
+# Decentralized Book Store Management System
 
 ![Ethereum Smart Contract](https://img.shields.io/badge/Ethereum%20Smart%20Contract-Yes-success.svg)
 ![MetaMask](https://img.shields.io/badge/MetaMask-Ready-blue.svg)
